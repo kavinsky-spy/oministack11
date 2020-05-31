@@ -25,12 +25,3 @@ app.listen(3333);
   * Route: identify between a param (something/2/something)
   * Body: json body sent as param
   */
-
-
-
-
-
-
-
-
-
